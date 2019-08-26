@@ -1,0 +1,1 @@
+alert("Use that marker: https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg")
